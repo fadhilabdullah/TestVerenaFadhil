@@ -1,0 +1,5 @@
+1) B. 2, 4, 5
+2) A. t.ContainsKey("DKI Jakarta");
+3) D. Ada error Jalan terus
+4) B. Outputnya: Bye Hello
+5) D. 25 125
